@@ -22,8 +22,9 @@ for (int i = 1; i <= 100; i++)
         Console.WriteLine("Buzz");
     else
         Console.WriteLine(i);
-}<hr />
+}
 
+## <hr />
 ![Screenshot 2025-03-27 163852](https://github.com/user-attachments/assets/6341b4cd-1a12-43d4-912b-d897ee362498)<hr />
 ![Screenshot 2025-03-27 163913](https://github.com/user-attachments/assets/9925da8f-8d49-4dec-99b4-e33643c56199)<hr />
 
